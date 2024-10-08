@@ -1,2 +1,2 @@
 # DevDigest
-wesley's note
+wesley's note.
