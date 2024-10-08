@@ -1,2 +1,2 @@
 # DevDigest
-笔记本
+wesley's note
